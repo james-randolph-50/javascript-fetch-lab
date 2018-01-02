@@ -74,3 +74,4 @@ function getToken() {
   //back to '' before committing so all tests pass
   return ''
 }
+const token = 'df7b5079d900d135ae7a7792850787a72fdc70f5';
