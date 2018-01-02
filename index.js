@@ -1,7 +1,7 @@
 const userName = ''
 const baseApi = "https://api.github.com/"
 const fork = `${userName}/javascript-fetch-lab`
-const token = 'df7b5079d900d135ae7a7792850787a72fdc70f5';
+
 
 function Issue(attributes){
   this.title = attributes.title;
